@@ -97,9 +97,8 @@ The deployed model looks as below. We have to provide the model a location. With
 
 **TODO** Remember to provide a screenshot of the deployed active endpoint in Sagemaker.
 
+<img width="1236" alt="Screenshot 2025-04-06 at 00 37 08" src="https://github.com/user-attachments/assets/67520122-881f-4a12-96fc-6120167fdeaa" />
 
-![image1](Screenshot 2025-03-26 at 17.11.24.png)
-
-![image2](Screenshot 2025-04-06 at 00.37.08.png)
+<img width="1230" alt="Screenshot 2025-04-06 at 00 38 23" src="https://github.com/user-attachments/assets/23379dc1-69c4-4216-b03b-6440229f51a0" />
 
 
