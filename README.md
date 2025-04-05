@@ -43,7 +43,8 @@ the learning rate is also very important since the big ones can skip the local m
 
 Remember that your README should:
 - Include a screenshot of completed training jobs
-  ![image](CD0387-deep-learning-topics-within-computer-vision-nlp-project-starter/Screenshot 2025-03-26 at 17.11.24.png)
+  <img width="1223" alt="Screenshot 2025-03-26 at 17 11 24" src="https://github.com/user-attachments/assets/933e287d-41b0-4811-bef8-670f00d832b8" />
+
 - Logs metrics during the training process
   They appear in the training Job
 - Tune at least two hyperparameters
